@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QESM3rOQbItHoRez2Z9l4QS29iNAzANGOxlitDesPRxnvvz5t6p56jamo/fA5bkOefkkiMMhAv213EpfLadHHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\L2030\\Downloads\\TelegramTestBot\\TelegramTestBot\\TelegramTestBot\\TelegramTestBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\L2030\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\L2030\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\L2030\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
+    "C:\\Users\\L2030\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512",
+    "C:\\Users\\L2030\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
